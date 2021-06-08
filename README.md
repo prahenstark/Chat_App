@@ -1,7 +1,6 @@
-
 # Chat App ⚡️
 
-![Screenshot (46)](https://user-images.githubusercontent.com/54349939/121144768-ee44d680-c85b-11eb-8155-5c83f26e1460.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/54349939/121144929-12081c80-c85c-11eb-9f64-87107138c90f.png)
 
 ## What you will create
 
